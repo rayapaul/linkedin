@@ -89,7 +89,7 @@
 .content {
     padding: 1rem;
     background: #efefef;
-    height: 100vh;
+    height: 100%;
 }
 
 .content .main {
